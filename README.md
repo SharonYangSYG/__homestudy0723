@@ -24,8 +24,8 @@
 docker run -it --name python-postgres continuumio/miniconda3
 
 **git設定**
-git config --global user.name "roberthsu"
-git config --global user.email "roberthsu2003@gmail.com"
+git config --global user.name "SharonYangSYG"
+git config --global user.email "tingtingdondon@gmail.com"
 git config --global pull.rebase false
 
 ##安裝visual studio code
