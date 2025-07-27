@@ -30,6 +30,8 @@
 ##Docker安裝python_conda_git開發環境
 ###步驟2 建立Python容器
 docker run -it --name python-postgres continuumio/miniconda3
+##方法二
+docker run --platform linux/amd64 -it --name python-postgres -d roberthsu2003/conda_uv_npx
 
 **git設定**
 git config --global user.name "SharonYangSYG"  
