@@ -73,5 +73,6 @@ python下執行的檔.
 進入Python執行
 <img width="897" height="678" alt="image" src="https://github.com/user-attachments/assets/a3991b11-82f7-422d-9131-d33a15573d83" />
 Copilot協助指令.
+<img width="841" height="483" alt="image" src="https://github.com/user-attachments/assets/3b803b0f-2476-4326-92d2-26265d7b6b4e" />
 ![Uploading image.png…]()
 
