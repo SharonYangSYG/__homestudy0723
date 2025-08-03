@@ -63,3 +63,6 @@ git config --global pull.rebase false
 
 
 **文字**
+
+<img width="911" height="924" alt="image" src="https://github.com/user-attachments/assets/4ad8261d-36ed-456e-b491-aea6fb243189" />
+
