@@ -70,4 +70,6 @@ git config --global pull.rebase false
 
 python下執行的檔.
 <img width="583" height="425" alt="image" src="https://github.com/user-attachments/assets/127428df-d03b-4954-a060-11a6ff8cc464" />
+進入Python執行
+![Uploading image.png…]()
 
