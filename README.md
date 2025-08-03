@@ -68,3 +68,6 @@ git config --global pull.rebase false
 
 <img width="1913" height="773" alt="image" src="https://github.com/user-attachments/assets/1d1356e3-c270-40d1-8df5-34d860236825" />
 
+python下執行的檔.
+<img width="583" height="425" alt="image" src="https://github.com/user-attachments/assets/127428df-d03b-4954-a060-11a6ff8cc464" />
+
