@@ -71,5 +71,7 @@ git config --global pull.rebase false
 python下執行的檔.
 <img width="583" height="425" alt="image" src="https://github.com/user-attachments/assets/127428df-d03b-4954-a060-11a6ff8cc464" />
 進入Python執行
+<img width="897" height="678" alt="image" src="https://github.com/user-attachments/assets/a3991b11-82f7-422d-9131-d33a15573d83" />
+Copilot協助指令.
 ![Uploading image.png…]()
 
