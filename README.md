@@ -81,4 +81,10 @@ Copilot協助指令.
 import psycopg2：
 
 (pydev) root@96573a9e2b07:/home/2025_06_29_create_postgres/lesson9# pip install psycopg2-binary
+<img width="1920" height="826" alt="image" src="https://github.com/user-attachments/assets/d184bb10-735b-4ecf-a06a-1733eca5b409" />
+
+DBeaver連去render_postgres
+URL
+USER NAME
+PASSWORD
 ![Uploading image.png…]()
