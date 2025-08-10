@@ -74,5 +74,11 @@ python下執行的檔.
 <img width="897" height="678" alt="image" src="https://github.com/user-attachments/assets/a3991b11-82f7-422d-9131-d33a15573d83" />
 Copilot協助指令.
 <img width="841" height="483" alt="image" src="https://github.com/user-attachments/assets/3b803b0f-2476-4326-92d2-26265d7b6b4e" />
-![Uploading image.png…]()
+<img width="959" height="868" alt="image" src="https://github.com/user-attachments/assets/ce67fe7e-6e92-4e4b-bdad-dd992d0e99fa" />
 
+
+
+import psycopg2：
+
+(pydev) root@96573a9e2b07:/home/2025_06_29_create_postgres/lesson9# pip install psycopg2-binary
+![Uploading image.png…]()
