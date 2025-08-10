@@ -87,4 +87,6 @@ DBeaver連去render_postgres
 URL
 USER NAME
 PASSWORD
+<img width="1737" height="957" alt="image" src="https://github.com/user-attachments/assets/53418336-9691-446b-8e64-8ed03754174c" />
+
 ![Uploading image.png…]()
