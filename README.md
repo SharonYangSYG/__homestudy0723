@@ -89,8 +89,12 @@ USER NAME
 PASSWORD
 <img width="1737" height="957" alt="image" src="https://github.com/user-attachments/assets/53418336-9691-446b-8e64-8ed03754174c" />
 
-![Uploading image.png…]()
+<img width="1129" height="899" alt="image" src="https://github.com/user-attachments/assets/06540598-14ef-449c-b576-5c793f30be9e" />
 
 
 requirements.txt
 在終端機執行pip install streamlit
+
+![Uploading image.png…]()
+(pydev) root@96573a9e2b07:/home/2025_06_29_create_postgres/lesson10# streamlit run main.py
+
