@@ -99,6 +99,10 @@ requirements.txt
 (pydev) root@96573a9e2b07:/home/2025_06_29_create_postgres/lesson10# streamlit run main.py
 
 
+ctrl+C 終止伺服器
+pip list 在vscode看有安裝哪裏套件
+<img width="666" height="427" alt="image" src="https://github.com/user-attachments/assets/fe4131fa-721b-4ab7-b170-e55aeb547c0e" />
+
 ![Uploading image.png…]()
 
 
