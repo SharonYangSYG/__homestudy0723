@@ -95,6 +95,10 @@ PASSWORD
 requirements.txt
 在終端機執行pip install streamlit
 
-![Uploading image.png…]()
+<img width="1885" height="940" alt="image" src="https://github.com/user-attachments/assets/76e1c3b5-1c3e-4401-90b1-a925df9ba739" />
 (pydev) root@96573a9e2b07:/home/2025_06_29_create_postgres/lesson10# streamlit run main.py
+
+
+![Uploading image.png…]()
+
 
